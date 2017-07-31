@@ -1,0 +1,22 @@
+Executable : /Users/AnshulDhawan/Documents/code/android-ndk-r10e/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/runtime-src/proj.android-studio/app/jni/Android.mk
+NDK_APPLICATION_MK=/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/runtime-src/proj.android-studio/app/jni/Application.mk
+APP_ABI=armeabi
+NDK_ALL_ABIS=armeabi
+NDK_DEBUG=0
+APP_PLATFORM=android-9
+NDK_OUT=/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/lib
+NDK_TOOLCHAIN_VERSION=4.9
+APP_PLATFORM=android-13
+NDK_MODULE_PATH=/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/cocos2d-x:/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/cocos2d-x/cocos:/Users/AnshulDhawan/Documents/code/predictive_story_creation/predictivetextgame/frameworks/cocos2d-x/external
+-j8
+NDK_DEBUG=0
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
